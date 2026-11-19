@@ -66,3 +66,6 @@ The result is in `dist/`.
 Your Client ID is saved in `.env` and your login token in `.cache-pkce`, both next to the app on your own computer. The app uses Spotify's PKCE login, so there is no client secret anywhere. Don't share or upload the `.cache-pkce` file.
 
 This project isn't affiliated with or endorsed by Spotify.
+
+## Contact
+Also if u find any bugs or just ask something you can contact me with discord:zeoxxion
